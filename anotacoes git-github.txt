@@ -1,0 +1,6 @@
+criar novo repositório no github
+clonar http
+no git bash inserir parte clonada com o comando (git clone mais a parte copiada ex: ->https://github.com/maldonadoap/desafio-github-dio-criando-repositorio.git)
+git status (informa o status do projeto)
+se a pasta estiver vermelha tem que adicionar
+para isso digitar git add -A (git add. não deu certo como na aula)
